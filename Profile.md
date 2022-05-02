@@ -11,17 +11,7 @@
   
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Study
 
-1. Hyun_Hoon_study <<2022 02 ~ >> 
-
-    * 1st - to lay the ground work for C_language  (complete)
-  
-    * 2st - to study python-based algorithm (We refer to the book, This is coding test(with python))
-
-
-2. Gatholic_study <<>>
-3. 
     
   
   
